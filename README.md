@@ -44,6 +44,12 @@
 <hr>
 
 ---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hamzakoc/count.svg" />
+</p>
+
+
 ### Connect with me:
 
 [<img align="left" alt="Hamza Koc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
