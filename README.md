@@ -47,7 +47,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' align="left"  width="36px">](https://hamzakoc.ca/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' align="left"  width="36px">](https://hamzakoc.ca/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' align=""  width="36px">](https://hamzakoc.ca/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java'   width="36px">](https://hamzakoc.ca/)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' align="left" width="36px">](https://hamzakoc.ca/) 
