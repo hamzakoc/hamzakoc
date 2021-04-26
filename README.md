@@ -37,6 +37,10 @@
 
 <br />
 <br />
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzakoc&show_icons=true&theme=radical)
 <hr>
 
 ---
@@ -48,7 +52,6 @@
 [<img align="left" alt="Hamza Koc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzakoc&show_icons=true&theme=radical)
 
 
 [website]: https://hamzakoc.ca
