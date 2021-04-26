@@ -51,13 +51,15 @@
 
 <hr>
 
-
+<div align="left" >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakoc)](https://github.com/anuraghazra/github-readme-stats)
-
+<div/>
+<div align="left" >
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzakoc&show_icons=true&count_private=true)  
-
+<div/>
+<div align="left" >
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hamzakoc)  
-
+<div/>
 ---
 
 ### Connect with me:
