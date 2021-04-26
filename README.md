@@ -44,6 +44,16 @@
 
 [<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="36px">](https://github.com/hamzakoc)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp'  width="36px">](https://hamzakoc.ca/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java'  width="36px">](https://hamzakoc.ca/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress'  width="36px">](https://hamzakoc.ca/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net'  width="36px">](https://hamzakoc.ca/)  
+
+
+
+
 <br />
 <br />
 
