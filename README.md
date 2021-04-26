@@ -44,7 +44,6 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzakoc&show_icons=true&theme=radical)
 <hr>
 
 
@@ -56,7 +55,7 @@
 
 ---
 
-
+<hr>
 ### Connect with me:
 
 [<img align="left" alt="Hamza Koc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
