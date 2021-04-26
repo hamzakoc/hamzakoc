@@ -5,7 +5,7 @@
 [<img align="left" alt="Hamza Koc | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hamza Koc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br/><br/>
 
 ### Hi there, I'm [Hamza Koc](https://hamzakoc.ca/) 👋
 
