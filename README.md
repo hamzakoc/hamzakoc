@@ -50,16 +50,20 @@
 ###
 
 <hr>
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hamzakoc)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzakoc&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hamzakoc)  
+
 
 ---
 
 ### Connect with me:
-
+![Profile views](https://gpvc.arturio.dev/hamzakoc)  
+[<img align="left" alt="Hamza Koc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Hamza Koc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hamza Koc | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Hamza Koc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [website]: https://hamzakoc.ca
