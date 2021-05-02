@@ -9,7 +9,7 @@
 
 ### Hi there, I'm [Hamza Koc](https://hamzakoc.ca/) 👋
 
-## I'm a Full Stack Web & Software Developer || Computer Programmer Analysts || Digital Marketing Expert || Technology Enthusiast
+## I'm a Full Stack Web & Software Developer || Computer Programmer Analyst || Digital Marketing Expert || Technology Enthusiast
 
 - 🌱 I’m currently learning everything
 - 💬 Ask me about anything , Would love to answer them
