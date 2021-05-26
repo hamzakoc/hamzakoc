@@ -11,11 +11,11 @@
 
 ## I'm a Full Stack Web & Software Developer || Computer Programmer Analyst || Digital Marketing Expert || Technology Enthusiast
 
-- 🌱 I’m currently learning everything
-- 💬 Ask me about anything , Would love to answer them
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love fishing and camping
+- 🌱 I’m currently learning everything.
+- 💬 Ask me about anything , would love to answer them.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love fishing and camping.
 - 📫 How to reach me: Any of the Social-Media Platform
 
 <br />
