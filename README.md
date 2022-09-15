@@ -8,7 +8,7 @@
 
 ### Hi there, I'm [Hamza Koc](https://hamzakoc.ca/) 👋
 
-## I'm a Full Stack Web & Software Developer || Computer Programmer Analyst ||  Technology Enthusiast
+## I'm a Software Developer
 
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about anything , would love to answer them.
