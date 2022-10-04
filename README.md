@@ -8,7 +8,7 @@
 
 ### Hi there, I'm [Hamza Koc](https://hamzakoc.ca/) 👋
 
-## I'm a Software Developer
+## I'm a Software Developer | DevOps Engineer
 
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about anything , would love to answer them.
