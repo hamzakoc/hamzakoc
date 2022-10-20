@@ -10,12 +10,11 @@
 
 ## I'm a Software Developer | DevOps Engineer
 
-- 🌱 I’m currently learning everything.
+- 🌱 My current focus is on gaining experience with cloud computing.
 - 💬 Ask me about anything , would love to answer them.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love fishing and camping.
-- 📫 How to reach me: Any of the Social-Media Platform
 
 <br />
 
