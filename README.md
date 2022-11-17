@@ -3,7 +3,7 @@
 [<img align="left" alt="Hamza Koc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Hamza Koc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hamza Koc | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<i class="fa fa-youtube-play" style="font-size:48px;color:red">https://www.youtube.com/channel/UCp1hXL5HEJ_M7QShze8IKPA</i>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'>
 
 <br/><br/>
 
