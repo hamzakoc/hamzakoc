@@ -7,7 +7,7 @@
 
 ### Hi there, I'm [Hamza Koc](https://hamzakoc.ca/) 👋
 
-## I'm a Software Developer | DevOps Engineer | Cloud Engineer
+## I'm a Software Developer | Cloud & DevOps Engineer
 
 - 🌱 My current focus is on gaining experience with cloud computing.
 - 💬 Ask me about anything , would love to answer them.
