@@ -12,7 +12,6 @@
 - 🌱 My current focus is on gaining experience with cloud computing.
 - 💬 Ask me about anything , would love to answer them.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love fishing and camping.
 
 <br />
